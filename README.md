@@ -39,12 +39,16 @@ NRTX Portfolio App System dirancang untuk mempermudah investor dalam memantau pe
 
 ### Tampilan Dark Mode
 | **Dark Mode Home** |
+
 | :---: | :---: |
+
 | ![DarkHome](GANTI_DENGAN_LINK_FOTO) |
 
 ### Tampilan Light Mode
 **| Light Mode Home |**
+
 | :---: | :---: |
+
 | ![LightHome](GANTI_DENGAN_LINK_FOTO) |
 
 ---
