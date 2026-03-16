@@ -30,27 +30,27 @@ NRTX Portfolio App System dirancang untuk mempermudah investor dalam memantau pe
 ### Halaman Utama & Auth
 | Landing Page | Login Page | Register Page |
 | :---: | :---: | :---: |
-| ![Landing](GANTI_DENGAN_LINK_FOTO) | ![Login](GANTI_DENGAN_LINK_FOTO) | ![Register](GANTI_DENGAN_LINK_FOTO) |
+| ![Landing](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Landing%20Page.png) | ![Login](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Login%20Page.png) | ![Register](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Register%20Page.png) |
 
 ### Fitur CRUD
 | Home (Daftar/List Aset) | Tambah Aset | Edit Aset | Hapus Aset |
 | :---: | :---: | :---: | :---: |
-| ![Home](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Landing%20Page.png) | ![Create](GANTI_DENGAN_LINK_FOTO) | ![Edit](GANTI_DENGAN_LINK_FOTO) | ![Delete](GANTI_DENGAN_LINK_FOTO) 
+| ![Home](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Daftar%20List%20Aset.png) | ![Create](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Tambah%20Aset.png) | ![Edit](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Edit%20Page.png) | ![Delete](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Delete%20Page.png) 
 
 ### Tampilan Fitur Lainnya
 | **Update Profile** |
 | :---: |
-| ![UpdateProfile](GANTI_DENGAN_LINK_FOTO) |
+| ![UpdateProfile](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Update%20Profile%20Page.png) |
 
 ### Tampilan Dark Mode
 | **Dark Mode Home** |
 | :---: |
-| ![DarkHome](GANTI_DENGAN_LINK_FOTO) |
+| ![DarkHome](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Dark%20Theme.png) |
 
 ### Tampilan Light Mode
 | **Light Mode Home** |
 | :---: |
-| ![LightHome](GANTI_DENGAN_LINK_FOTO) |
+| ![LightHome](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Light%20Theme.png) |
 
 ---
 
