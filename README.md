@@ -52,7 +52,7 @@ NRTX Portfolio App System dirancang untuk mempermudah investor dalam memantau pe
 | :---: |
 | ![LightHome](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Light%20Theme.png) |
 
-### Tampilan Database & Table Supabase
+### Tampilan User & Table Database Supabase
 | **User** | **Table Database**
 | :---: | :---: |
 | ![User](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/User%20add.png) | ![TableDatabase](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Table%20Editor.png)
