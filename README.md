@@ -28,9 +28,9 @@ NRTX Portfolio App System dirancang untuk mempermudah investor dalam memantau pe
 ## 📸 Dokumentasi Aplikasi
 
 ### Halaman Utama & Auth
-| Landing Page | Login Page | Register Page |
-| :---: | :---: | :---: |
-| ![Landing](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Landing%20Page.png) | ![Login](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Login%20Page.png) | ![Register](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Register%20Page.png) |
+| Landing Page | Login Page | Register Page | Log Out Page |
+| :---: | :---: | :---: | :---: |
+| ![Landing](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Landing%20Page.png) | ![Login](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Login%20Page.png) | ![Register](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Register%20Page.png) | ![LogOut](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Logout%20Page.png)
 
 ### Fitur CRUD
 | Home (Daftar/List Aset) | Tambah Aset | Edit Aset | Hapus Aset |
