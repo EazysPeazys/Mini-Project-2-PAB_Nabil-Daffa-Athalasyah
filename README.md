@@ -49,4 +49,4 @@ Aplikasi ini memanfaatkan berbagai widget Flutter untuk membangun UI yang respon
 
 ---
 
-*Project ini dibuat untuk memenuhi tugas Praktikum Pemrograman Aplikasi Bergerak 2026.*
+*Project ini dibuat untuk memenuhi tugas Praktikum Pemrograman Aplikasi Bergerak 2026 - Project By Athalasyah Nabil.*
