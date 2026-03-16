@@ -35,7 +35,7 @@ NRTX Portfolio App System dirancang untuk mempermudah investor dalam memantau pe
 ### Fitur CRUD
 | Home (Daftar/List Aset) | Tambah Aset | Edit Aset | Hapus Aset |
 | :---: | :---: | :---: | :---: |
-| ![Home](GANTI_DENGAN_LINK_FOTO) | ![Create](GANTI_DENGAN_LINK_FOTO) | ![Edit](GANTI_DENGAN_LINK_FOTO) | ![Delete](GANTI_DENGAN_LINK_FOTO) 
+| ![Home](https://github.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/blob/df899944dc05165db6f5918201aef78825dc7d48/Landing%20Page.png) | ![Create](GANTI_DENGAN_LINK_FOTO) | ![Edit](GANTI_DENGAN_LINK_FOTO) | ![Delete](GANTI_DENGAN_LINK_FOTO) 
 
 ### Tampilan Fitur Lainnya
 | **Update Profile** |
