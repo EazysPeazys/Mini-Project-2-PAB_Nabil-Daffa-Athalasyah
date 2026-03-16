@@ -32,10 +32,15 @@ NRTX Portfolio App System dirancang untuk mempermudah investor dalam memantau pe
 | :---: | :---: | :---: |
 | ![Landing](GANTI_DENGAN_LINK_FOTO) | ![Login](GANTI_DENGAN_LINK_FOTO) | ![Register](GANTI_DENGAN_LINK_FOTO) |
 
-### Fitur CRUD & Profil
-| Home (Daftar Aset) | Tambah/Edit Aset | Update Profile |
-| :---: | :---: | :---: |
-| ![Home](GANTI_DENGAN_LINK_FOTO) | ![Form](GANTI_DENGAN_LINK_FOTO) | ![Profile](GANTI_DENGAN_LINK_FOTO) |
+### Fitur CRUD
+| Home (Daftar/List Aset) | Tambah Aset | Edit Aset | Hapus Aset |
+| :---: | :---: | :---: | :---: |
+| ![Home](GANTI_DENGAN_LINK_FOTO) | ![Create](GANTI_DENGAN_LINK_FOTO) | ![Edit](GANTI_DENGAN_LINK_FOTO) | ![Delete](GANTI_DENGAN_LINK_FOTO) 
+
+### Tampilan Fitur Lainnya
+| **Update Profile** |
+| :---: |
+| ![UpdateProfile](GANTI_DENGAN_LINK_FOTO) |
 
 ### Tampilan Dark Mode
 | **Dark Mode Home** |
