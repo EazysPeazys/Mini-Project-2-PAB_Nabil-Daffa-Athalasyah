@@ -4,7 +4,7 @@ Selamat datang di repository **NRTX Portfolio App System**, sebuah solusi manaje
 
 ---
 
-## 👤 Informasi Pengembang
+## 👤 Informasi Project
 * **Nama**: Nabil Daffa Athalasyah
 * **NIM**: 2409116090
 * **Kelas**: Sistem Informasi C 2024
@@ -17,7 +17,7 @@ NRTX Portfolio App System dirancang untuk mempermudah investor dalam memantau pe
 
 ---
 
-## ✨ Fitur Utama (Sesuai Instruksi Mini Project 2)
+## ✨ Fitur Utama Aplikasi
 1. **Autentikasi Pengguna**: Sistem pendaftaran akun baru dan login yang aman menggunakan **Supabase Auth**.
 2. **Integrasi Database (CRUD)**:
    * **Create**: Menambahkan data aset investasi baru ke dalam database.
